@@ -1,0 +1,2 @@
+plugins=(git z zsh-autosuggestions zsh-syntax-highlighting web-search copydir copyfile dirhistory)
+
