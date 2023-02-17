@@ -1,2 +1,2 @@
-plugins=(git z zsh-autosuggestions zsh-syntax-highlighting web-search copydir copyfile dirhistory)
+plugins=(git z zsh-autosuggestions zsh-syntax-highlighting web-search copypath copyfile dirhistory sudo history conda-zsh-completion)
 
