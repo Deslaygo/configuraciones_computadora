@@ -1,0 +1,10 @@
+Listado de aplicaciones 
+- Taskwarrior
+- Simplenotes
+- Gitahead
+- crossftp
+- DBBeaver comunnity
+- Stacer
+- CopyQ
+- Gpaste
+- IT Tools
